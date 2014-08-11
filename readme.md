@@ -84,6 +84,16 @@ It’s designed to be easy to use and understand for all types of users.
 		database/ticket.sql
 
 
+	#LOGIN ACCOUNT
+
+	Admin:
+
+		admin@admin.com
+		123456
+
+	User:
+
+	create yourself with registration form
 
 
 
