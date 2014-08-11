@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'rotronizer@gmail.com', 'name' => 'Assistenza Nagual Informatica'),
+	'from' => array('address' => 'youremail@gmail.com', 'name' => 'Assistenza'),
 
 	/*
 	|--------------------------------------------------------------------------

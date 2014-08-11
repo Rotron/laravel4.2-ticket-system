@@ -72,7 +72,12 @@
                 </div>
                 <div class="form-group">
                     <label>Tipo</label>
-                    {{Form::select('option', array('Assistenza Hardware' => 'Assistenza Hardware', 'Assistenza Software' => 'Assistenza Software'), array('class'=>'form-control')) }}
+                    {{Form::select('option', 
+                    array(
+                    Config::get('app.option1') => Config::get('app.option1'),
+                    Config::get('app.option2') => Config::get('app.option2')),
+
+                     array('class'=>'form-control')) }}
                 </div>
                 <div class="form-group">
                     <label>Descrizione</label>
