@@ -4,14 +4,14 @@
 <div class="container">
     <div class="row">
         <div class="col-md-9 col-md-push-3">
-            <h3>Open Tickets</h3>
+            <h3>Tickets Aperti</h3>
             <hr/>
             <table class="table" id="tickets">
                 <thead>
                 <tr>
-                    <th>Ticket Title</th>
-                    <th>From</th>
-                    <th>Updated</th>
+                    <th>Titolo Ticket</th>
+                    <th>Da</th>
+                    <th>Aggiornato</th>
                 </tr>
                 </thead>
                 <tbody>

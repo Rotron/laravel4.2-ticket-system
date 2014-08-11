@@ -131,7 +131,7 @@
         <li
         @if($highlight=='resolved') class="active" @endif>
         <a href="{{url('tickets/resolved')}}">
-            Tickets Risolti
+            Tickets Chiusi
         </a>
         </li>
         <li
