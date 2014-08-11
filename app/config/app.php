@@ -23,7 +23,7 @@ return array(
 	
 	'name' => 'Ticket System',
 
-	'logo' => 'public/imgs/logo.jpg',
+	'logo' => 'public/imgs/logo.png',
 
 	/*
 	|--------------------------------------------------------------------------
