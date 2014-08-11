@@ -26,7 +26,7 @@ It’s designed to be easy to use and understand for all types of users.
 
 	Copy all files in your www folder
 
-		chmod -Rf 777 storage
+		chmod -Rf 755 storage
 	
 	Edit:
 		
